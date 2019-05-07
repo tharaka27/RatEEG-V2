@@ -47,7 +47,7 @@ Target is to create a wearable EEG device which connects to owners phone and inf
 
 <h2>Credits</h2>
 This project started with [RatEEG] - https://github.com/tharaka27/RatEEG design. But we later moved to OpenBCI 8bit design for more 
-accuracy. So credit of initial design goes to OpenBCI. We have changed the hardware, firmware to match our needs.
+accuracy. So credit of initial design goes to OpenBCI - https://github.com/OpenBCI. We have changed the hardware, firmware to match our needs.
   
 <h2>Work flow</h2>
 
