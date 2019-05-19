@@ -54,7 +54,7 @@ accuracy. So credit of initial design goes to OpenBCI - https://github.com/OpenB
  - [x] schematic designing the EEG module
  - [x] PCB print
  - [x] Design headset for RatEEG V2
- - [ ] 3d print RatEEG V2 headset
+ - [x] 3d print RatEEG V2 headset
  - [ ] Writing firmware
  - [ ] Desktop application for debugging
  - [ ] Android/ios app
